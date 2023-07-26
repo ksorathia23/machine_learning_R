@@ -20,5 +20,5 @@ dependencies:
   - partd
   - bokeh
   - dask
-  - caret
+  
   
