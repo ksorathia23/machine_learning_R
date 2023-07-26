@@ -20,6 +20,6 @@ dependencies:
   - partd
   - bokeh
   - dask
-  - pycaret
+
   
   
