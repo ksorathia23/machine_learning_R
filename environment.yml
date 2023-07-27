@@ -11,6 +11,9 @@ dependencies:
   - r-tidyverse
   - r-stringr
   - r-caret
+  - r-kernlab
+  - r-randomForest
+  - r-elipse
 
   
   
