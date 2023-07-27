@@ -13,7 +13,7 @@ dependencies:
   - r-caret
   - r-kernlab
   - r-randomForest
-  - r-elipse
+  - r-ellipse
 
   
   
