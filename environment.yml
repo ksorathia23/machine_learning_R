@@ -11,6 +11,8 @@ dependencies:
   - r-plotly
   - r-stringr
   - r-caret
+  - r-Depends
+  - r-Suggests
   - numpy
   - psutil
   - toolz
